@@ -11,8 +11,8 @@
   2.2 数据缺失的处理<br>
 
 <p>3.环境:<br>
-* pyCharm + Jupyter Notebook + Anaconda<br>
-* python3.9 <br>
+pyCharm + Jupyter Notebook + Anaconda<br>
+python3.9 <br>
 <br>
 
 <p>4.文件组织结构<br>
